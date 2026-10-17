@@ -88,7 +88,7 @@ This starter program demonstrates process isolation and the behavior commonly as
 9. Team
 - Navaneeth
 - Chaitanya
-- G. Karthikeya
+- T. Sai Krishna
 Confirm the official full names, roll numbers, and guide details with the project team before final submission.
 10. License / Academic Use
 Prepared as an educational Operating Systems mini project. Add your institution's required license or academic integrity statement if applicable.
